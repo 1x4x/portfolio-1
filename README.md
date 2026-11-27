@@ -1,1 +1,72 @@
-# portfolio-1
+# 💚 Walter Schötz — Developer Portfolio
+
+A modern, responsive, dark-mode portfolio website showcasing C#, .NET, Blazor, APIs, and software architecture projects.
+
+[![HTML](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](index.html)
+[![CSS](https://img.shields.io/badge/CSS3-Responsive-1572B6?logo=css&logoColor=white)](index.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)](index.html)
+[![Theme](https://img.shields.io/badge/Theme-Dark%20%2B%20Green-65bf82)](index.html)
+
+## ✨ Features
+
+- 🌙 Premium dark-mode design with electric-green highlights
+- 📱 Responsive on desktop, tablet, and mobile
+- 🧊 Animated geometric hero illustration (respects reduced-motion settings)
+- 🗂️ Interactive project-category filters
+- 🔗 Direct links to featured GitHub repositories
+- 💻 Skills, developer bio and contact section
+- ⚡ Single HTML file — no build tools or server required
+
+## 🖼️ Preview
+
+Open [**index.html**](index.html) in a browser to view the website.
+
+**Featured:** Walter MiniTodo, Walter Budget, Movie API, Product API, Walter Life, Walter User API, Walter Super Trainer, and Clean Architecture.
+
+> The project artwork is illustrative, not a screenshot of each application.
+
+## 🚀 Run locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/1x4x/portfolio-1.git
+   cd portfolio-1
+   ```
+2. Open `index.html` in your browser. No installation is needed.
+
+## 🛠️ Customize
+
+Edit the `portfolio` object near the bottom of `index.html`:
+
+- `skills` — technology badges
+- `projects` — project title, category, description, tags, color and GitHub URL
+
+Projects with an empty `url` don't show an external-link arrow. Update introductory, About and contact text directly in the HTML.
+
+## 🌍 Publish on GitHub Pages
+
+Open **Settings → Pages → Build and deployment** in this repository, select **Deploy from a branch**, choose **main** and **/(root)**, then save. GitHub Pages will serve this site at:
+
+**https://1x4x.github.io/portfolio-1/**
+
+The URL becomes available after Pages is enabled and deployment completes.
+
+## 🧰 Tech stack
+
+HTML5 · CSS3 · Vanilla JavaScript · Google Fonts
+
+## 📁 Project structure
+
+```text
+portfolio-1/
+├── index.html  # Complete portfolio website
+└── README.md   # Documentation
+```
+
+## 👨‍💻 Developer
+
+**Walter Schötz** — [GitHub @1x4x](https://github.com/1x4x)
+
+---
+
+Built to showcase systems, code and creativity.
